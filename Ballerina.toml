@@ -6,3 +6,13 @@ distribution = "2201.7.0"
 
 [build-options]
 observabilityIncluded = true
+
+[persist]
+datastore = "inmemory"
+module = "bal_pack_demo"
+
+[[platform.java11.dependency]]
+groupId = "io.ballerina.stdlib"
+artifactId = "persist.inmemory-native"
+version = "1.1.0"
+
