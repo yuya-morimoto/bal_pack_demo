@@ -320,6 +320,6 @@ modules = [
 	{org = "ym", packageName = "bal_pack_demo", moduleName = "bal_pack_demo.domain.dto"},
 	{org = "ym", packageName = "bal_pack_demo", moduleName = "bal_pack_demo.domain.entity"},
 	{org = "ym", packageName = "bal_pack_demo", moduleName = "bal_pack_demo.domain.repository"},
-	{org = "ym", packageName = "bal_pack_demo", moduleName = "bal_pack_demo.domain.service"}
+	{org = "ym", packageName = "bal_pack_demo", moduleName = "bal_pack_demo.domain.usecase"}
 ]
 
